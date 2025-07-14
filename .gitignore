@@ -1,0 +1,26 @@
+# Ignore dataset files (CSV, Excel, JSON, ZIP, etc.)
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.zip
+
+# Ignore folders where you might store data
+/data/
+*/data/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system and temp files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments (if used)
+.env
+.venv/
+*.egg-info/

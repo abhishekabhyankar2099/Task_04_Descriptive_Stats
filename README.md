@@ -32,11 +32,6 @@ The datasets used are provided as part of the iSchool OPT Research project. For 
 - `2024_fb_posts_president_scored_anon.csv`
 - `2024_fb_ads_president_scored_anon.csv`
 
-## 📌 GitHub Submission Notes
-
-- All data files are excluded from version control using `.gitignore`
-- Only scripts and documentation are committed
-- Results are printed to stdout and not saved to disk
 
 ## 📝 Author
 

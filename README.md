@@ -25,14 +25,6 @@ Each script:
 - Groups records by meaningful keys (like `page_id`, `post_created_date`, etc.)
 - Outputs summary to the console
 
-## 📎 Public Datasets Used
-
-The datasets used are provided as part of the iSchool OPT Research project. For reproducibility, the filenames are:
-- `2024_tw_posts_president_scored_anon.csv`
-- `2024_fb_posts_president_scored_anon.csv`
-- `2024_fb_ads_president_scored_anon.csv`
-
-
 ## 📝 Author
 
 Abhishek Abhyankar  

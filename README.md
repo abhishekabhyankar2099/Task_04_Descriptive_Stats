@@ -52,6 +52,11 @@ No major discrepancies were found across platforms. However:
 Abhishek Abhyankar  
 Syracuse University – iSchool OPT Research
 
+## Note
+Before running the scripts, be sure to edit the file path(s) accordingly to point to the correct location of your dataset files on your system.
+
+
+
 ---
 
 Thank you for reviewing this submission!
